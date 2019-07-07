@@ -18,3 +18,5 @@ For the test time attacks we adapted the provided enjoy-adv.py to limit the numb
 
 
 You can find our original source code in the folder "image-scripts", where the scripts are used to extract the results from the log file created by enjoy-env.py and train.py
+
+PS: Unfortunately we were not able to upload the models as they are too large.
